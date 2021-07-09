@@ -3067,9 +3067,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pantherswap-libs/uikit@defiswap/kindle":
+"@pantherswap-libs/uikit@edwinvyp/kindle":
   version "0.1.1"
-  resolved "https://registry.npmjs.org/@defiswap/kindle/-/kindle-0.1.1.tgz#efdee6e74e7d35ec07e9f0ce4a621ade4b5ee3ab"
+  resolved "https://api.github.com/repos/edwinvyp/kindle-uikit/tarball/master"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
