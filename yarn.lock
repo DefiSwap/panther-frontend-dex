@@ -3067,7 +3067,7 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pantherswap-libs/uikit@^0.1.1":
+"@pantherswap-libs/uikit@defiswap/kindle":
   version "0.1.1"
   resolved "https://registry.npmjs.org/@defiswap/kindle/-/kindle-0.1.1.tgz#efdee6e74e7d35ec07e9f0ce4a621ade4b5ee3ab"
   dependencies:
